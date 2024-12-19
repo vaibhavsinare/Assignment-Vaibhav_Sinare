@@ -5,7 +5,7 @@ module.exports = {
   ],
   content: [
     './components/**/*.html',
-    './emails/**/*.html',
+    './emails/*.html',
     './layouts/**/*.html',
   ],
   theme: {

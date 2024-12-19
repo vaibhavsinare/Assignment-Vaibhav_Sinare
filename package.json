@@ -8,5 +8,8 @@
   "dependencies": {
     "@maizzle/framework": "latest",
     "tailwindcss-preset-email": "latest"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
   }
 }
